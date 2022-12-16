@@ -1,0 +1,161 @@
+/* Detail header*/
+
+
+.renew-wrap {
+  width: 1300px;
+  margin: 0 auto;
+  padding-top: 55px;
+  position: relative;
+}
+
+.renew-content {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.rn-02 {
+  margin-top: 16px;
+  position: relative;
+  border-bottom: 2px solid #333;
+}
+
+.rn-02 .rn-big-title {
+  word-break: break-all;
+  font-size: 35px;
+  color: #333;
+  line-height: 40px;
+  font-weight: bold;
+  letter-spacing: -0.003em;
+  font-family: 'Noto Sans KR', 'NanumBarunGothic', '맑은 고딕', 'Malgun Gothic', sans-serif;
+}
+
+.movie-pop-wrap {
+  width: 100%;
+  min-width: 1300px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  height: 655px;
+}
+
+.renew-wrap.rw2 {
+  padding-top: 0;
+  margin-top: -655px;
+}
+
+.rn-03 {
+  margin-top: 40px;
+  overflow: hidden;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.rn-03-left {
+  float: left;
+  width: 430px;
+}
+
+.rn-03-left .rn-product-imgbox {
+  width: 430px;
+  height: 600px;
+  position: relative;
+}
+
+.rn-03-right {
+  float: right;
+  width: 701px;
+}
+
+.rn-03-right .rn-product-area1 {
+  border-bottom: 1px solid #000;
+  position: relative;
+}
+
+.rn-03-right dl {
+  overflow: hidden;
+}
+
+.rn-03-right dt {
+  font-size: 15px;
+  color: #333;
+  font-weight: bold;
+  float: left;
+  line-height: 35px;
+}
+
+.rn-03-right dd {
+  font-size: 15px;
+  color: #333;
+  clear: right;
+  margin: 0 0 3px 86px;
+  line-height: 35px;
+  position: relative;
+}
+
+.rn-03-right .rn-product-area1 .rn-product-price {
+  padding-bottom: 11px;
+}
+
+.rn-03-right .rn-product-area1 .rn-product-dc {
+  margin: 0 0 18px 86px;
+  line-height: 35px;
+}
+
+
+
+.rn-03-right .rn-product-area3 {
+  min-height: 174px;
+  border-bottom: 1px solid #000;
+}
+
+.rn-03-right .rn-product-area3 dt {
+  width: 100%;
+  float: none;
+  margin: 6px 0 -3px 0;
+}
+
+.rn-03-right dt {
+  font-size: 15px;
+  color: #333;
+  font-weight: bold;
+  float: left;
+  line-height: 35px;
+}
+
+.calender2-1{
+  margin-bottom: 40px;
+}
+
+.calender3-1{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.calender3-1-1{
+  font-size: 15px;
+}
+
+.rn-05 {
+  margin: 50px 0;
+  text-align: center;
+  font-size: 0;
+}
+
+.rn-05 a.rn-bb03 {
+  font-size: 20px;
+  color: #fff;
+  background: #f43142;
+  border: 2px solid #f43142;
+}
+.rn-05 a{
+  margin-bottom: 10px;
+}
+
+.ticket1{
+  margin-right: 7px;
+}
+.ticket2{
+  color: #ec7d2c;
+}

@@ -1,0 +1,464 @@
+input,
+select,
+textarea,
+div,
+p,
+span {
+  outline: none;
+}
+.renew-wrap {
+  width: 1300px;
+  margin: 0 auto;
+  padding-top: 55px;
+}
+.renew-content {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.rn-07 {
+  border-bottom: 2px solid #333;
+}
+.rn-07 a.on {
+  border-top: 3px solid #ec7d2c;
+}
+.rn-07 a {
+  display: inline-block;
+  height: 55px;
+  line-height: 55px;
+  width: 180px;
+  border-top: 3px solid #fff;
+  text-align: center;
+}
+.rn-07 a > span {
+  font-size: 18px;
+  color: #333;
+  letter-spacing: -0.09em;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn-tab-boxes {
+  position: relative;
+}
+.rn-tab-area.on {
+  position: relative;
+  opacity: 1;
+  visibility: visible;
+  height: auto;
+}
+.rn-08 {
+  text-align: center;
+}
+.rn-08 > div:first-child {
+  padding-top: 70px;
+}
+.rn-08 > div {
+  padding-bottom: 70px;
+}
+.rn-08 .rn-0801 .rn08-tit {
+  padding-top: 0;
+}
+.rn-08 div .rn08-tit {
+  font-size: 30px;
+  color: #333;
+  padding-bottom: 51px;
+  font-weight: bold;
+  letter-spacing: -0.07em;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn-08 div .rn08-txt img {
+  vertical-align: middle;
+}
+.rn-08 div .rn08-txt * {
+  font-size: 13px;
+  line-height: 28px;
+}
+
+/* 기획사 정보*/
+.rn-08 div .rn-0803-tbl {
+  margin-top: 90px;
+}
+.rn-08 div .rn08-tbl {
+  border-top: 1px solid #333;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.rn-08 div .rn08-tbl table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+colgroup {
+  display: table-column-group;
+}
+.rn-08 div .rn08-tbl table {
+  border-collapse: collapse;
+  width: 100%;
+}
+col {
+  width: 18.5%;
+}
+col {
+  display: table-column;
+}
+col {
+  display: table-column;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.rn-08 div .rn08-tbl table tr th.rn08-tbl-tit:first-child {
+  border-left: 0 none;
+}
+.rn-08 div .rn08-tbl table th.rn08-tbl-tit {
+  font-size: 18px;
+  color: #333;
+  background: #f6f6f6;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn-08 div .rn-0803-tbl table th {
+  height: 100px;
+}
+
+.rn-08 div .rn08-tbl table th {
+  font-size: 15px;
+  color: #333;
+  text-align: center;
+  height: 50px;
+  font-weight: bold;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+}
+
+.rn-08 div .rn-0803-tbl table td {
+  text-align: left;
+  padding: 10px 0 10px 30px;
+  font-size: 14px;
+  color: #333;
+  line-height: 25px;
+}
+.rn-08 div .rn08-tbl table td {
+  font-size: 15px;
+  color: #555;
+  text-align: center;
+  height: 50px;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+}
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+/* 상품정보제공 고시*/
+.rn-08 div.rn-0805 {
+  border-bottom: 1px solid #333;
+}
+.rn-08 > div {
+  padding-bottom: 70px;
+}
+
+.rn-08 div .rn08-tit {
+  font-size: 30px;
+  color: #333;
+  padding-bottom: 51px;
+  font-weight: bold;
+  letter-spacing: -0.07em;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.rn-08 div .rn08-tbl.rn08-tbl-plus {
+  padding-bottom: 0;
+}
+.rn-08 div .rn08-tbl {
+  border-top: 1px solid #333;
+  width: 960px;
+  margin: 0 auto;
+}
+.rn-08 div .rn08-txt * {
+  font-size: 13px;
+  line-height: 28px;
+}
+.rn-08 div .rn08-tbl table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.rn-08 div .rn08-txt * {
+  font-size: 13px;
+  line-height: 28px;
+}
+.PageDetailImage1 {
+  margin: 0px 0px 0px 0px;
+  line-height: 120%;
+}
+.PageDetailImage2 {
+  margin: 0px 0px 0px 0px;
+  line-height: 120%;
+}
+
+.rn-tab-area.on {
+  position: relative;
+  opacity: 1;
+  visibility: visible;
+  height: auto;
+}
+.rn-1201.rn-infos-1 {
+  margin-top: 85px;
+}
+.rn-1201 {
+  overflow: hidden;
+  position: relative;
+}
+.rn12-left-tit {
+  position: absolute;
+  width: 238px;
+  padding-left: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn12-right-box {
+  margin-left: 240px;
+  clear: right;
+  font-size: 14px;
+  line-height: 28px;
+  color: #555;
+  padding: 0 0 85px 3px;
+  letter-spacing: -0.03em;
+}
+.rn12-right-underline {
+  border-bottom: 1px solid #555;
+}
+.rn12-tbl {
+  padding: 33px 0 15px 0;
+  margin-left: -3px;
+}
+.rn12-tbl table {
+  border-collapse: collapse;
+  width: 100%;
+}
+colgroup {
+  display: table-column-group;
+}
+
+.rn12-tbl table th {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  background: #fbe5d5;
+  text-align: center;
+  font-size: 15px;
+  color: #333;
+  padding: 8px 0 3px 0;
+}
+
+.rn12-tbl table td {
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  padding: 6px 0 5px 0;
+  vertical-align: middle;
+}
+.rn-1201 {
+  overflow: hidden;
+  position: relative;
+}
+.rn12-left-tit {
+  position: absolute;
+  width: 238px;
+  padding-left: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+
+.rn12-right-box {
+  margin-left: 240px;
+  clear: right;
+  font-size: 14px;
+  line-height: 28px;
+  color: #555;
+  padding: 0 0 85px 3px;
+  letter-spacing: -0.03em;
+}
+.rn-infos-2 .rn12-line {
+  margin-bottom: 39px;
+}
+.rn12-line {
+  height: 5px;
+  border-bottom: 1px solid #333;
+}
+.rn12-right-box p {
+  margin-bottom: 18px;
+}
+
+.rn12-right-bold {
+  font-weight: bold;
+  color: #333;
+  display: block;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.rn12-right-bold {
+  font-weight: bold;
+  color: #333;
+  display: block;
+}
+.rn12-left-tit {
+  position: absolute;
+  width: 238px;
+  padding-left: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn12-line {
+  height: 5px;
+  border-bottom: 1px solid #333;
+}
+.rn12-tbl {
+  padding: 33px 0 15px 0;
+  margin-left: -3px;
+}
+.rn12-caution {
+  display: block;
+  padding-left: 22px;
+  position: relative;
+}
+.rn12-right-red {
+  color: #f43142;
+}
+
+.rn12-left-tit {
+  position: absolute;
+  width: 238px;
+  padding-left: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  font-family: "Noto Sans KR", "NanumBarunGothic", "맑은 고딕", "Malgun Gothic",
+    sans-serif;
+}
+.rn12-right-box {
+  margin-left: 240px;
+  clear: right;
+  font-size: 14px;
+  line-height: 28px;
+  color: #555;
+  padding: 0 0 85px 3px;
+  letter-spacing: -0.03em;
+}
+
+.rn12-line {
+  height: 5px;
+  border-bottom: 1px solid #333;
+}
+.rn12-right-red {
+  color: #f43142;
+}
+
+.rn-infos-5 .rn12-line {
+  margin-bottom: 39px;
+}
+.rn-infos-5 .rn12-tbl table td {
+  vertical-align: top;
+  padding: 10px 0;
+}
+.rn12-tbl table td.rn-color-333 {
+  color: #333;
+}
+.rn12-tbl table td {
+  border-bottom: 1px solid #eee;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  padding: 6px 0 5px 0;
+  vertical-align: middle;
+}
+.rn-infos-5 .rn12-tbl table td {
+  vertical-align: top;
+  padding: 10px 0;
+}
+.rn12-tbl table td.rn-color-333 {
+  color: #333;
+}
+.rn-infos-5 .rn12-tbl table tr td:last-child {
+  text-align: left;
+}
+.rn-infos-5 .rn12-tbl table td {
+  vertical-align: top;
+  padding: 10px 0;
+}
+.rn-infos-5 .rn12-tbl table td {
+  vertical-align: top;
+  padding: 10px 0;
+}
+.rn-08 div .rn08-tbl.rn08-tbl-plus table td {
+  font-size: 14px;
+  color: #555;
+  text-align: left;
+  height: auto;
+  padding: 8px 10px 4px 22px;
+  line-height: 20px;
+}
+.rn-08 div.rn-0806 {
+  padding-bottom: 0;
+}
+.rn-1101-tit {
+  text-align: center;
+  font-size: 30px;
+  color: #333;
+  font-weight: bold;
+  padding: 85px 0 42px 0;
+}
+
+.rn-1101-other {
+  padding: 0 7px;
+  font-size: 16px;
+  color: #666;
+  letter-spacing: -0.01em;
+}
+
+.rn-1101-other span {
+  padding: 0 7px;
+  font-size: 16px;
+  color: #666;
+  letter-spacing: -0.01em;
+}

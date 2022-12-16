@@ -1,0 +1,231 @@
+.successPage {
+  height: 28rem;
+}
+
+.successPage h1 {
+  /*margin: 0 auto;*/
+  margin-top: 10rem;
+  font-size: 4rem;
+}
+
+.successPage button {
+  width: 10rem;
+  height: 3rem;
+  margin-top: 6rem;
+}
+
+/* mypage */
+.mypage {
+  width: 1200px;
+  height: 850px;
+  margin: 50px auto;
+  border: 1px;
+}
+
+.mypage-header {
+  background-color: #6c757d;
+  height: 80px;
+  margin-bottom: 20px;
+  border-radius: 10px 10px;
+}
+
+.mypage-header p {
+  color: white;
+  font-size: 30px;
+  height: 80px;
+  line-height: 80px;
+}
+
+.mypagebody {
+  display: flex;
+}
+
+.card {
+  width: 20%;
+  height: 45rem;
+  margin-top: 50px;
+  border-radius: 10px 10px;
+}
+
+.card-header {
+  background: #212529;
+  color: white;
+}
+
+.card-header p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card button {
+  /* width: 50%; */
+  width: 100px;
+  margin: auto auto;
+  margin-top: 20px;
+}
+
+.list-group-item {
+  height: 60px;
+  line-height: 50px;
+}
+
+.list-group-item:hover {
+  background-color: lightgray;
+}
+
+.tabct {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* mypage - profile */
+.profileImg {
+  width: 100px;
+  height: 100px;
+}
+
+.profileTitle {
+  font-size: 30px;
+}
+
+.profileTable {
+  margin: 0 auto;
+  margin-top: 5rem;
+  width: 100%;
+  height: 8rem;
+}
+
+.profileTable tr,
+.profileTable td {
+  border: 1px solid darkgray;
+  padding-top: 0.8rem;
+}
+
+.profileTable td:nth-child(1) {
+  background-color: #cccccc;
+}
+
+.profileTable td {
+  width: 500px;
+  height: 3rem;
+}
+
+/* mypage - Management */
+
+/* mypage - Inquiry */
+.askTable {
+  width: 100%;
+}
+
+.askTable th {
+  background-color: #f6f6f6;
+  width: 100px;
+  height: 60px;
+}
+
+.askTable .txt-w565 {
+  width: 80%;
+  height: 20px;
+}
+
+.radiocheck {
+  margin: auto 4px;
+}
+
+.w565 {
+  width: 80%;
+}
+
+.txt11-txt {
+  margin-left: 80px;
+  margin-right: 5px;
+}
+
+.gray-w60 {
+  width: 120px;
+  height: 20px;
+}
+
+.gray-w70 {
+  width: 120px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+#EmailSelect {
+  width: 120px;
+  margin-left: 10px;
+}
+
+.askTable .askTR {
+  font-size: 8px;
+  height: 60px;
+  line-height: 60px;
+}
+
+.askBottom {
+  font-size: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.askbtn button {
+  width: 100px;
+  margin: 0 10px;
+}
+
+.upload{
+    width: 30rem;
+    height: 34rem;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.upload div {
+  width: 26rem;
+  height: 25rem;
+  margin: 0 auto;
+}
+
+.upload img {
+  width: 15rem;
+  margin: 0 auto;
+}
+
+.upload .slick-next,
+.upload .slick-prev {
+  transform: rotate(270deg);
+}
+
+/*FAQ*/
+.reserFAQ {
+  border: 1px solid black;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+}
+
+.reserFAQ th {
+  background-color: darkgray;
+}
+.reserFAQ tr,
+.reserFAQ td,
+.reserFAQ th {
+  border: 1px solid black;
+  padding-top: 0.3rem;
+}
+
+.infoCenter {
+  display: flex;
+}
+
+.infoCenter button {
+  width: 6rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.buylist{
+
+}

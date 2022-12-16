@@ -1,0 +1,70 @@
+.wrap {
+    clear: both;
+    position: relative;
+    /* width: 100%; */
+}
+.title-page {
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.right_contents {
+    clear: both;
+    position: relative;
+    padding: 20px;
+    /* border-bottom: 1px solid #ddd; */
+    width: 800px;
+    margin: auto ;
+}
+
+.box_address_cell{
+    display: table;
+    width: 100%;
+    font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+    line-height: 24px;
+    border-bottom: 1px solid #ddd;
+}
+
+.title-box.font-mss{
+    font-size: 18px;
+    margin: auto auto;
+
+}
+
+.cell_discount_detail {
+    border-top: 1px solid #ddd;
+}
+
+.cell_discount_tit {
+    border-top: 1px solid #ddd;
+}
+
+/* .cell_order_form {
+    margin-bottom: 10px;
+    margin-top: 18px;
+} */
+
+.clear cell_order_form1 border_add_order{
+    border-top: 1px solid #ddd;
+}
+
+.list_payment_order {
+    display: table;
+    width: 100%;
+    line-height: 24px;
+    font-family: "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+}
+
+.korDiv{
+    margin-bottom: 30px;
+}
+
+.korSub {
+    font-size: 25px;
+    font-weight: bold;
+    /* margin-bottom: 100px; */
+}
+
+.section_payment {
+    margin-top: 50px;
+}

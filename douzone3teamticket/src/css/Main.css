@@ -1,0 +1,172 @@
+.Mainbody {
+  margin-bottom: 4rem;
+}
+
+.Container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.Container div {
+  width: 100%;
+  display: flex;
+}
+
+.Container Button {
+  all: unset;
+  border: 1px solid coral;
+  padding: 0.5em 2em;
+  color: coral;
+  border-radius: 10px;
+}
+
+.bodyStart {
+  margin-top: 5rem;
+}
+
+.divtitle {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.divtitle:nth-child(1) {
+  margin-top: 8rem;
+}
+
+.hotImg {
+  /*background-color: #282c34;*/
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+.hotImg img {
+  width: 20rem;
+}
+
+.hotImg div {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin: 0 auto;
+  width: 95%;
+}
+
+.ticketopen {
+  margin-top: 10rem;
+  margin-bottom: 0.5rem;
+}
+
+.open {
+  padding-bottom: 1.5rem;
+}
+
+.open1 {
+  margin-top: 1rem;
+}
+
+.open1 img {
+  width: 20rem;
+}
+
+.open1 div {
+  width: 20rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+
+.open2 img {
+  width: 7rem;
+  margin: 0 auto;
+}
+
+.open2 div {
+  margin: 0 auto;
+  width: 50rem;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  color: rgba(40, 40, 40, 0.78);
+}
+
+/* 각종 정보 */
+.v-line {
+  border-left: 2px solid lightgray;
+  height: 8rem;
+}
+
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 10rem;
+}
+
+.con-left,
+.infoCenter,
+.con-right {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.con-right {
+  display: flex;
+}
+
+.socialappdown {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 3rem;
+}
+
+.social {
+  margin-bottom: 1rem;
+}
+
+.social a {
+  margin-left: 0.8rem;
+}
+
+.userImg {
+  width: 3rem;
+  filter: invert();
+}
+
+.loginForm {
+  width: 40%;
+  height: 25rem;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+
+.loginForm button {
+  width: 8rem;
+  height: 3rem;
+  margin: 1rem;
+  margin-top: 3rem;
+}
+
+.joinForm {
+  width: 40%;
+  height: 35rem;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+
+.joinForm button {
+  width: 8rem;
+  height: 3rem;
+  margin: 1rem;
+  margin-top: 3rem;
+}
+
+.imgsl img{
+  margin: 0 auto;
+}
+
+.imgsl{
+  background-color: black;
+}

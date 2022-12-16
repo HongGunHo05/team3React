@@ -1,0 +1,51 @@
+.stuff {
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 320px;
+  padding: 24px 24px 21px;
+  border: 1px solid #d3d3d3;
+}
+.stuff img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: none;
+  z-index: 10;
+  border: 1px solid #000;
+  margin-bottom: 1rem;
+}
+
+.stuff_img {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.stuff_img:hover {
+  transform: scale(1.1);
+}
+
+.mu {
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+  gap: 30px 0px;
+  margin-top: 35px;
+  width: 1300px;
+}
+
+.stuff_title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.stuff_content {
+    display: block;
+    overflow: hidden;
+    font-size: 1px;
+    color: #333;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
